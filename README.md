@@ -79,5 +79,6 @@ Service: LINE Messaging API และ Vercel Serverless Functions
 หากต้องการสอบถามข้อมูลเพิ่มเติมหรือแจ้งปัญหาการใช้งาน:
 
 Developer: [Natthakit Jarnuppakara]
+Developer: [Panuvong Tonthong]
 
 GitHub: [https://github.com/Nattakit-pkvc/TestGitHW]
