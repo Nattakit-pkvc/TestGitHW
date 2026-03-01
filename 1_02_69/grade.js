@@ -1,4 +1,4 @@
-let arr = [65, 89, 73, 45, 67];
+let arr = [100, 89, 73, 45, 67];
 
 function grader(scores) {
     let grade = { A: 0, B: 0, C: 0, F: 0 };
